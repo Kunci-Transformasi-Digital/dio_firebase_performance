@@ -1,4 +1,5 @@
 import 'package:dio/dio.dart';
+// ignore: import_of_legacy_library_into_null_safe
 import 'package:firebase_performance/firebase_performance.dart';
 
 /// [Dio] client interceptor that hooks into request/response process
